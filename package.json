@@ -13,6 +13,6 @@
   "author": "Jan-T. Brinkmann",
   "license": "ISC",
   "dependencies": {
-    "pac-resolver": "^4.1.0"
+    "pac-resolver": "^5.0.0"
   }
 }
